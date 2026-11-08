@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/profile-banner.svg" alt="HexForge — Unreal Engine tools, native C++, and engine development" width="100%">
+  <img src="assets/profile-banner.jpg" alt="HexForge monochrome geometric logo" width="100%">
 
   <br>
 
