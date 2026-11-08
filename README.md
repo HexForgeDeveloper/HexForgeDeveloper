@@ -24,7 +24,7 @@
     <td width="50%" valign="top">
       <h3><a href="https://github.com/HexForgeDeveloper/Tools-Project">Tools-Project</a></h3>
       <p>Nine standalone editor plugins for content management, validation, performance analysis, and everyday Unreal workflows.</p>
-      <p><code>Unreal Engine 5.5</code> <code>C++</code> <code>Slate</code></p>
+      <p><code>Unreal Engine</code> <code>C++</code> <code>Slate</code></p>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/HexForgeDeveloper/Tools-Plugins">Tools-Plugins</a></h3>
