@@ -17,39 +17,6 @@
 
 <br>
 
-## Featured projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/HexForgeDeveloper/Tools-Project"><img src="assets/projects/Tools-Project.jpg" alt="Tools-Project cover" width="100%"></a>
-      <h3><a href="https://github.com/HexForgeDeveloper/Tools-Project">Tools-Project</a></h3>
-      <p>Nine standalone editor plugins for content management, validation, performance analysis, and everyday Unreal workflows.</p>
-      <p><code>Unreal Engine</code> <code>C++</code> <code>Slate</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/HexForgeDeveloper/Tools-Plugins"><img src="assets/projects/Tools-Plugins.jpg" alt="Tools-Plugins cover" width="100%"></a>
-      <h3><a href="https://github.com/HexForgeDeveloper/Tools-Plugins">Tools-Plugins</a></h3>
-      <p>Independent, reusable editor plugins that can be integrated into other Unreal projects.</p>
-      <p><code>Unreal Engine</code> <code>C++</code> <code>Editor Tools</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/HexForgeDeveloper/Amber-Engine"><img src="assets/projects/Amber-Engine.jpg" alt="Amber-Engine cover" width="100%"></a>
-      <h3><a href="https://github.com/HexForgeDeveloper/Amber-Engine">Amber-Engine</a></h3>
-      <p>A work-in-progress 2D engine with custom physics and separate editor and runtime workflows.</p>
-      <p><code>C++</code> <code>SDL2</code> <code>Dear ImGui</code> <code>CMake</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/HexForgeDeveloper/RaycastEngine"><img src="assets/projects/RaycastEngine.jpg" alt="RaycastEngine cover" width="100%"></a>
-      <h3><a href="https://github.com/HexForgeDeveloper/RaycastEngine">RaycastEngine</a></h3>
-      <p>A compact raycasting engine with an SDL2 software renderer and an ImGui map editor.</p>
-      <p><code>C / C++</code> <code>SDL2</code> <code>Dear ImGui</code></p>
-    </td>
-  </tr>
-</table>
-
 ## Unreal Engine editor toolkit
 
 Explore nine tools from [Tools-Project](https://github.com/HexForgeDeveloper/Tools-Project). The source collection is available in [Tools-Plugins](https://github.com/HexForgeDeveloper/Tools-Plugins).
@@ -128,6 +95,39 @@ Explore nine tools from [Tools-Project](https://github.com/HexForgeDeveloper/Too
       <strong><a href="https://github.com/HexForgeDeveloper/Tools-Project/blob/5.5/Plugins/WireBundle/README.md">Wire Bundle</a></strong>
       <br>
       <sub>Organize Blueprint and Material wires with native reroutes.</sub>
+    </td>
+  </tr>
+</table>
+
+
+## Personal Projects 
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/HexForgeDeveloper/Tools-Project"><img src="assets/projects/Tools-Project.jpg" alt="Tools-Project cover" width="100%"></a>
+      <h3><a href="https://github.com/HexForgeDeveloper/Tools-Project">Tools-Project</a></h3>
+      <p>Nine standalone editor plugins for content management, validation, performance analysis, and everyday Unreal workflows.</p>
+      <p><code>Unreal Engine</code> <code>C++</code> <code>Slate</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/HexForgeDeveloper/Tools-Plugins"><img src="assets/projects/Tools-Plugins.jpg" alt="Tools-Plugins cover" width="100%"></a>
+      <h3><a href="https://github.com/HexForgeDeveloper/Tools-Plugins">Tools-Plugins</a></h3>
+      <p>Independent, reusable editor plugins that can be integrated into other Unreal projects.</p>
+      <p><code>Unreal Engine</code> <code>C++</code> <code>Editor Tools</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/HexForgeDeveloper/Amber-Engine"><img src="assets/projects/Amber-Engine.jpg" alt="Amber-Engine cover" width="100%"></a>
+      <h3><a href="https://github.com/HexForgeDeveloper/Amber-Engine">Amber-Engine</a></h3>
+      <p>A work-in-progress 2D engine with custom physics and separate editor and runtime workflows.</p>
+      <p><code>C++</code> <code>SDL2</code> <code>Dear ImGui</code> <code>CMake</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/HexForgeDeveloper/RaycastEngine"><img src="assets/projects/RaycastEngine.jpg" alt="RaycastEngine cover" width="100%"></a>
+      <h3><a href="https://github.com/HexForgeDeveloper/RaycastEngine">RaycastEngine</a></h3>
+      <p>A compact raycasting engine with an SDL2 software renderer and an ImGui map editor.</p>
+      <p><code>C / C++</code> <code>SDL2</code> <code>Dear ImGui</code></p>
     </td>
   </tr>
 </table>
