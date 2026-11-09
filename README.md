@@ -132,12 +132,6 @@ Explore nine tools from [Tools-Project](https://github.com/HexForgeDeveloper/Too
   </tr>
 </table>
 
-## Inside the editor
-
-<a href="https://github.com/HexForgeDeveloper/Tools-Project">
-  <img src="https://raw.githubusercontent.com/HexForgeDeveloper/Tools-Project/main/Docs/Images/ToolsProjectImage.jpg" alt="HexForge tools inside Unreal Editor" width="100%">
-</a>
-
 <br>
 
 <div align="center">
