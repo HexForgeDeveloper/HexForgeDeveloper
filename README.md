@@ -53,69 +53,75 @@ Explore nine tools from [Tools-Project](https://github.com/HexForgeDeveloper/Too
 <table width="100%">
   <tr>
     <td width="33%" align="center" valign="top">
-      <a href="https://github.com/HexForgeDeveloper/DataAssetManager"><img src="assets/plugins/DataAssetManager.jpg" alt="Data Asset Manager cover" width="100%"></a>
+      <a href="https://github.com/HexForgeDeveloper/Tools-Project/blob/5.5/Docs/Plugins.md#dataassetmanager"><img src="assets/plugins/DataAssetManager.jpg" alt="Data Asset Manager cover" width="100%"></a>
       <br>
-      <strong><a href="https://github.com/HexForgeDeveloper/DataAssetManager">Data Asset Manager</a></strong>
+      <strong><a href="https://github.com/HexForgeDeveloper/Tools-Project/blob/5.5/Docs/Plugins.md#dataassetmanager">Data Asset Manager</a></strong>
       <br>
       <sub>Browse, compare, and edit Data Assets in bulk.</sub>
+      <br>
+      <sub><a href="https://github.com/HexForgeDeveloper/DataAssetManager">Plugin repository</a></sub>
     </td>
     <td width="33%" align="center" valign="top">
-      <a href="https://github.com/HexForgeDeveloper/TextureChannelPacker"><img src="assets/plugins/TextureChannelPacker.jpg" alt="Texture Channel Packer cover" width="100%"></a>
+      <a href="https://github.com/HexForgeDeveloper/Tools-Project/blob/5.5/Docs/Plugins.md#texturechannelpacker"><img src="assets/plugins/TextureChannelPacker.jpg" alt="Texture Channel Packer cover" width="100%"></a>
       <br>
-      <strong><a href="https://github.com/HexForgeDeveloper/TextureChannelPacker">Texture Channel Packer</a></strong>
+      <strong><a href="https://github.com/HexForgeDeveloper/Tools-Project/blob/5.5/Docs/Plugins.md#texturechannelpacker">Texture Channel Packer</a></strong>
       <br>
       <sub>Pack, remap, and extract texture channels.</sub>
+      <br>
+      <sub><a href="https://github.com/HexForgeDeveloper/TextureChannelPacker">Plugin repository</a></sub>
     </td>
     <td width="33%" align="center" valign="top">
-      <a href="https://github.com/HexForgeDeveloper/CppTemplateGenerator"><img src="assets/plugins/CppTemplateGenerator.jpg" alt="C++ Template Generator cover" width="100%"></a>
+      <a href="https://github.com/HexForgeDeveloper/Tools-Project/blob/5.5/Docs/Plugins.md#cpptemplategenerator"><img src="assets/plugins/CppTemplateGenerator.jpg" alt="C++ Template Generator cover" width="100%"></a>
       <br>
-      <strong><a href="https://github.com/HexForgeDeveloper/CppTemplateGenerator">C++ Template Generator</a></strong>
+      <strong><a href="https://github.com/HexForgeDeveloper/Tools-Project/blob/5.5/Docs/Plugins.md#cpptemplategenerator">C++ Template Generator</a></strong>
       <br>
       <sub>Create native classes from configured parent classes.</sub>
+      <br>
+      <sub><a href="https://github.com/HexForgeDeveloper/CppTemplateGenerator">Plugin repository</a></sub>
     </td>
   </tr>
   <tr>
     <td width="33%" align="center" valign="top">
-      <a href="https://github.com/HexForgeDeveloper/Tools-Project/tree/5.5/Plugins/ContentBrowserToolkit"><img src="assets/plugins/ContentBrowserToolkit.jpg" alt="Content Browser Toolkit cover" width="100%"></a>
+      <a href="https://github.com/HexForgeDeveloper/Tools-Project/blob/5.5/Docs/Plugins.md#contentbrowsertoolkit"><img src="assets/plugins/ContentBrowserToolkit.jpg" alt="Content Browser Toolkit cover" width="100%"></a>
       <br>
-      <strong><a href="https://github.com/HexForgeDeveloper/Tools-Project/tree/5.5/Plugins/ContentBrowserToolkit">Content Browser Toolkit</a></strong>
+      <strong><a href="https://github.com/HexForgeDeveloper/Tools-Project/blob/5.5/Docs/Plugins.md#contentbrowsertoolkit">Content Browser Toolkit</a></strong>
       <br>
       <sub>Trace asset references and preview folder moves.</sub>
     </td>
     <td width="33%" align="center" valign="top">
-      <a href="https://github.com/HexForgeDeveloper/Tools-Project/tree/5.5/Plugins/OutlinerToolkit"><img src="assets/plugins/OutlinerToolkit.jpg" alt="Outliner Toolkit cover" width="100%"></a>
+      <a href="https://github.com/HexForgeDeveloper/Tools-Project/blob/5.5/Docs/Plugins.md#outlinertoolkit"><img src="assets/plugins/OutlinerToolkit.jpg" alt="Outliner Toolkit cover" width="100%"></a>
       <br>
-      <strong><a href="https://github.com/HexForgeDeveloper/Tools-Project/tree/5.5/Plugins/OutlinerToolkit">Outliner Toolkit</a></strong>
+      <strong><a href="https://github.com/HexForgeDeveloper/Tools-Project/blob/5.5/Docs/Plugins.md#outlinertoolkit">Outliner Toolkit</a></strong>
       <br>
       <sub>Inspect, organize, and audit scene actors.</sub>
     </td>
     <td width="33%" align="center" valign="top">
-      <a href="https://github.com/HexForgeDeveloper/Tools-Project/tree/5.5/Plugins/PerformanceInspector/PerformanceInspector"><img src="assets/plugins/PerformanceInspector.jpg" alt="Performance Inspector cover" width="100%"></a>
+      <a href="https://github.com/HexForgeDeveloper/Tools-Project/blob/5.5/Docs/Plugins.md#performanceinspector"><img src="assets/plugins/PerformanceInspector.jpg" alt="Performance Inspector cover" width="100%"></a>
       <br>
-      <strong><a href="https://github.com/HexForgeDeveloper/Tools-Project/tree/5.5/Plugins/PerformanceInspector/PerformanceInspector">Performance Inspector</a></strong>
+      <strong><a href="https://github.com/HexForgeDeveloper/Tools-Project/blob/5.5/Docs/Plugins.md#performanceinspector">Performance Inspector</a></strong>
       <br>
       <sub>Record frame timings and compare performance budgets.</sub>
     </td>
   </tr>
   <tr>
     <td width="33%" align="center" valign="top">
-      <a href="https://github.com/HexForgeDeveloper/Tools-Project/tree/5.5/Plugins/UNotepad"><img src="assets/plugins/UNotepad.jpg" alt="UNotepad cover" width="100%"></a>
+      <a href="https://github.com/HexForgeDeveloper/Tools-Project/blob/5.5/Docs/Plugins.md#unotepad"><img src="assets/plugins/UNotepad.jpg" alt="UNotepad cover" width="100%"></a>
       <br>
-      <strong><a href="https://github.com/HexForgeDeveloper/Tools-Project/tree/5.5/Plugins/UNotepad">UNotepad</a></strong>
+      <strong><a href="https://github.com/HexForgeDeveloper/Tools-Project/blob/5.5/Docs/Plugins.md#unotepad">UNotepad</a></strong>
       <br>
       <sub>Edit source and data files inside Unreal Editor.</sub>
     </td>
     <td width="33%" align="center" valign="top">
-      <a href="https://github.com/HexForgeDeveloper/Tools-Project/tree/5.5/Plugins/ValidatorX"><img src="assets/plugins/ValidatorX.jpg" alt="ValidatorX cover" width="100%"></a>
+      <a href="https://github.com/HexForgeDeveloper/Tools-Project/blob/5.5/Docs/Plugins.md#validatorx"><img src="assets/plugins/ValidatorX.jpg" alt="ValidatorX cover" width="100%"></a>
       <br>
-      <strong><a href="https://github.com/HexForgeDeveloper/Tools-Project/tree/5.5/Plugins/ValidatorX">ValidatorX</a></strong>
+      <strong><a href="https://github.com/HexForgeDeveloper/Tools-Project/blob/5.5/Docs/Plugins.md#validatorx">ValidatorX</a></strong>
       <br>
       <sub>Review Blueprint and Material validation findings.</sub>
     </td>
     <td width="33%" align="center" valign="top">
-      <a href="https://github.com/HexForgeDeveloper/Tools-Project/tree/5.5/Plugins/WireBundle"><img src="assets/plugins/WireBundle.jpg" alt="Wire Bundle cover" width="100%"></a>
+      <a href="https://github.com/HexForgeDeveloper/Tools-Project/blob/5.5/Docs/Plugins.md#wirebundle"><img src="assets/plugins/WireBundle.jpg" alt="Wire Bundle cover" width="100%"></a>
       <br>
-      <strong><a href="https://github.com/HexForgeDeveloper/Tools-Project/tree/5.5/Plugins/WireBundle">Wire Bundle</a></strong>
+      <strong><a href="https://github.com/HexForgeDeveloper/Tools-Project/blob/5.5/Docs/Plugins.md#wirebundle">Wire Bundle</a></strong>
       <br>
       <sub>Organize Blueprint and Material wires with native reroutes.</sub>
     </td>
