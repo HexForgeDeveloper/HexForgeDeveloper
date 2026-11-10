@@ -8,7 +8,7 @@
   <br><br>
 
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/Unreal%20Engine-5.5-313131?style=flat-square&logo=unrealengine" alt="Unreal Engine 5.5">
+  <img src="https://img.shields.io/badge/Unreal%20Engine-5.5-313131?style=flat-square&logo=unrealengine" alt="Unreal Engine">
   <img src="https://img.shields.io/badge/Slate-6D5BD0?style=flat-square" alt="Slate">
   <img src="https://img.shields.io/badge/SDL2-1D3557?style=flat-square" alt="SDL2">
   <img src="https://img.shields.io/badge/Dear%20ImGui-C25E10?style=flat-square" alt="Dear ImGui">
